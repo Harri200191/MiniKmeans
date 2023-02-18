@@ -1,2 +1,2 @@
-# MiniKmeans
-K means clustering on a small data set
+# K Means Clustering
+Applied K means clustering on a small data set
